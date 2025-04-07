@@ -15,9 +15,10 @@ Sou apaixonado por tecnologia, inovação e propósito. Atualmente, estou desenv
   - Permite que pessoas se conectem com base em interesses
   - Uso de Kafka para comunicação entre serviços
   - Stories e sistema de cadastro de eventos
-- 🎯 **SaaS para professores interagirem com alunos**
-  - Ferramenta interativa para aulas online ou presenciais
-  - Feedback em tempo real e gamificação da participação
+- ⚽ **SaaS de palpites entre amigos**
+  - Plataforma para criar grupos de palpites sobre partidas de futebol
+  - Gamificação: pontuação, ranking entre amigos e competições semanais
+  - Foco em interação social e diversão com futebol
 
 ## ✨ Sobre mim
 
