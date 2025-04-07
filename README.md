@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia, inovação e propósito. Atualmente, estou desenv
 
 ## ✨ Sobre mim
 
-- 🎓 Sempre aprendendo e buscando evoluir em tech e negócios
+- 🎓 Atualmente no 4° ano de sistema de informação pela FIAP
 - 💡 Amo criar ideias que nascem de um problema real
 - 🌍 Quero construir algo que impacte o mundo positivamente
 - 📚 Curto conteúdos sobre estratégia, startups e inovação
@@ -30,12 +30,9 @@ Sou apaixonado por tecnologia, inovação e propósito. Atualmente, estou desenv
 ## 📫 Como me encontrar
 
 - GitHub: [@GuilhermeRadan](https://github.com/GuilhermeRadan)
-- Email: guilherme@email.com *(exemplo, me avisa se quiser trocar)*
+- Email: radanguilherme1@gmail
 
 ---
-
-⭐ Obrigado por visitar meu perfil! Vamos construir algo juntos?
-
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -56,5 +53,8 @@ Sou apaixonado por tecnologia, inovação e propósito. Atualmente, estou desenv
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+⭐ Obrigado por visitar meu perfil! Vamos construir algo juntos?
+
 
 
